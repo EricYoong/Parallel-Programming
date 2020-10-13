@@ -1,0 +1,54 @@
+﻿  Assignment2.cpp
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/error_code.hpp(859): warning #1786: function "strncpy" (declared at line 340 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+            std::strncpy( buffer, m.c_str(), len - 1 );
+                 ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(62): warning #1786: function "strerror" (declared at line 178 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        char const * m = std::strerror( ev );
+                              ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(79): warning #1786: function "strerror" (declared at line 178 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        char const * m = std::strerror( ev );
+                              ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(83): warning #1786: function "strncpy" (declared at line 340 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        std::strncpy( buffer, m, len - 1 );
+             ^
+  
+D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment1V2.9.2 (VS2015) Dynamic ProgrammingMultiThreading\Assignment2\Assignment2\boost/date_time/c_time.hpp(101): warning #1786: function "localtime" (declared at line 505 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h") was declared deprecated ("This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for
+            details.")
+            result = std::localtime(t);
+                          ^
+  
+D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment1V2.9.2 (VS2015) Dynamic ProgrammingMultiThreading\Assignment2\Assignment2\boost/date_time/c_time.hpp(110): warning #1786: function "gmtime" (declared at line 495 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h") was declared deprecated ("This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+            result = std::gmtime(t);
+                          ^
+  
+  CityParcel.cpp
+  dynamic_prgramming.cpp
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/error_code.hpp(859): warning #1786: function "strncpy" (declared at line 340 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+            std::strncpy( buffer, m.c_str(), len - 1 );
+                 ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(62): warning #1786: function "strerror" (declared at line 178 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        char const * m = std::strerror( ev );
+                              ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(79): warning #1786: function "strerror" (declared at line 178 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        char const * m = std::strerror( ev );
+                              ^
+  
+C:\Users\devil\Desktop\boost_1_69_0\boost/system/detail/generic_category.hpp(83): warning #1786: function "strncpy" (declared at line 340 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h") was declared deprecated ("This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        std::strncpy( buffer, m, len - 1 );
+             ^
+  
+D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment1V2.9.2 (VS2015) Dynamic ProgrammingMultiThreading\Assignment2\Assignment2\boost/date_time/c_time.hpp(101): warning #1786: function "localtime" (declared at line 505 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h") was declared deprecated ("This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for
+            details.")
+            result = std::localtime(t);
+                          ^
+  
+D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment1V2.9.2 (VS2015) Dynamic ProgrammingMultiThreading\Assignment2\Assignment2\boost/date_time/c_time.hpp(110): warning #1786: function "gmtime" (declared at line 495 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h") was declared deprecated ("This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+            result = std::gmtime(t);
+                          ^
+  
+  Assignment2.vcxproj -> D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment1V2.9.2 (VS2015) Dynamic ProgrammingMultiThreading\Assignment2\x64\Release\Assignment2.exe

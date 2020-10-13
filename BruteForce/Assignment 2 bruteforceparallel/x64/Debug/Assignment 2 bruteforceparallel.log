@@ -1,0 +1,13 @@
+﻿  Assignment1.cpp
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(199): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'INT999', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(202): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(202): warning C4244: 'argument': conversion from 'INT999' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(203): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(205): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\utarstudy\degreee\y2\y2s3\parallel programming\assignment\assignment 2 bruteforceparallel\assignment 2 bruteforceparallel\assignment1.cpp(303): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 2 bruteforceparallel.vcxproj -> D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment 2 bruteforceparallel\x64\Debug\Assignment 2 bruteforceparallel.exe
+  Assignment 2 bruteforceparallel.vcxproj -> D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment 2 bruteforceparallel\x64\Debug\Assignment 2 bruteforceparallel.pdb (Full PDB)

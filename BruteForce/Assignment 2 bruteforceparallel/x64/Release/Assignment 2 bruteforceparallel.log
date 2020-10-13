@@ -1,0 +1,14 @@
+﻿  Assignment1.cpp
+Assignment1.cpp(47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(164): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'INT999', possible loss of data
+Assignment1.cpp(167): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(167): warning C4244: 'argument': conversion from 'INT999' to 'int', possible loss of data
+Assignment1.cpp(168): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(170): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Assignment1.cpp(267): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Assignment 2 bruteforceparallel.vcxproj -> D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment 2 bruteforceparallel\x64\Release\Assignment 2 bruteforceparallel.exe
+  Assignment 2 bruteforceparallel.vcxproj -> D:\UTARStudy\Degreee\Y2\Y2S3\Parallel Programming\Assignment\Assignment 2 bruteforceparallel\x64\Release\Assignment 2 bruteforceparallel.pdb (Full PDB)
