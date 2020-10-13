@@ -10,4 +10,7 @@ Red Circle :point_left: City
 Green Square :point_left: Parcel  
   
 ![picture alt](https://github.com/EricYoong/Parallel-Programming/blob/main/Images/13_6817%20%203825_4911%20BruteForce.png "Brute Force Method")  
-![picture alt](https://github.com/EricYoong/Parallel-Programming/blob/main/Images/8_7299%20%203825_4911%20DynamicProgrammingMultiThreaded.png "Dynamic Programming MultiThreaded Method")
+![picture alt](https://github.com/EricYoong/Parallel-Programming/blob/main/Images/8_7299%20%203825_4911%20DynamicProgrammingMultiThreaded.png "Dynamic Programming MultiThreaded Method")  
+
+## License
+This project is for educational purpose.
